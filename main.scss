@@ -1,0 +1,20 @@
+.slide{
+    &.slide-one{
+        display: block;
+        &.hidden{
+            display: none;
+        }
+    }
+    &.slide-two{
+        display: block;
+        &.hidden{
+            display: none;
+        }
+    }
+    &.slide-three{
+        display: block;
+        &.hidden{
+            display: none;
+        }
+    }
+}

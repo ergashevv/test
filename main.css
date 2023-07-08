@@ -1,0 +1,18 @@
+.slide.slide-one {
+  display: block;
+}
+.slide.slide-one.hidden {
+  display: none;
+}
+.slide.slide-two {
+  display: block;
+}
+.slide.slide-two.hidden {
+  display: none;
+}
+.slide.slide-three {
+  display: block;
+}
+.slide.slide-three.hidden {
+  display: none;
+}/*# sourceMappingURL=main.css.map */
